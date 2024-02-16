@@ -127,7 +127,7 @@ public class BoardController {
 			// TODO: handle exception
 			LOG.error("[Board] deleteBoard : " + e.getMessage(), e);
 		}
-
+		
 		return result;
 
 	}
