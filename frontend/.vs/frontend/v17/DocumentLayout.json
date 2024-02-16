@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "src\\components\\BoardDetail.vue",
               "ToolTip": "C:\\Users\\bigch\\git\\Board-Project\\frontend\\src\\components\\BoardDetail.vue",
               "RelativeToolTip": "src\\components\\BoardDetail.vue",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAAEYAAAAwAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAFgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2024-02-16T08:36:33.501Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "src\\components\\RegistBoard.vue",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2024-02-16T07:51:49.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T07:51:49.234Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "src\\main.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-02-16T05:21:00.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T05:21:00.072Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "src\\components\\BoardList.vue",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2024-02-16T03:55:16.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T03:55:16.27Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "src\\App.vue",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2024-02-16T03:54:57.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T03:54:57.709Z"
             }
           ]
         }
