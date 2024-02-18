@@ -11,6 +11,7 @@ npm install -g @vue/cli
 5.MariaDB 설치
 
 6.table 생성
+
 CREATE TABLE BOARD(
 	BNO INT NOT NULL AUTO_INCREMENT,	-- 게시판 고유 번호 (자동증가)
 	TITLE VARCHAR(100),	-- 게시글 제목
