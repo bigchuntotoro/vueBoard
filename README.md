@@ -1,10 +1,15 @@
-# Board-Project
 1. node.js 설치
 2. yarn 설치
 npm install --global yarn
-4. vue 설치
+3. vue 설치
+npm install vue
+npm install -g @vue/cli
 
+4.lombok 설치
 
+5.MariaDB 설치
+
+6.table 생성
 
 CREATE TABLE BOARD(
 	BNO INT NOT NULL AUTO_INCREMENT,	-- 게시판 고유 번호 (자동증가)
