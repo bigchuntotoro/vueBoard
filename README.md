@@ -1,6 +1,8 @@
 # Board-Project
 1. node.js 설치
 2. yarn 설치
+   npm install --global yarn
+3. vue 설치
 
 
 
