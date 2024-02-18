@@ -1,6 +1,8 @@
 # Board-Project
 node.js 설치
+
 yarn 설치
+
 npm install --global yarn
 
 
