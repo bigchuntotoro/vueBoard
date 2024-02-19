@@ -2,21 +2,23 @@
 
 2. yarn 설치
 
-npm install --global yarn
+   npm install --global yarn
 
 3. vue 설치
- 
-npm install vue
 
-npm install -g @vue/cli
+   npm install vue
 
-4.lombok 설치
+   npm install -g @vue/cli
 
-5. front실행 : yarn serve
 
-6.MariaDB 설치
+4. lombok 설치
 
-7.table 생성
+5. front실행
+
+   yarn serve
+
+6. MariaDB 설치
+   
 
 CREATE TABLE BOARD(
 	BNO INT NOT NULL AUTO_INCREMENT,	-- 게시판 고유 번호 (자동증가)
