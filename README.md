@@ -14,9 +14,9 @@ npm install -g @vue/cli
 
 5. front실행 : yarn serve
 
-5.MariaDB 설치
+6.MariaDB 설치
 
-6.table 생성
+7.table 생성
 
 CREATE TABLE BOARD(
 	BNO INT NOT NULL AUTO_INCREMENT,	-- 게시판 고유 번호 (자동증가)
