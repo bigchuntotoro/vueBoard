@@ -11,7 +11,12 @@
 	</resultMap>
 	
 	<select id="getBoardList" resultMap="boardMap">
-		SELECT * 
+		SELECT
+		bno,
+		title, 
+		content, 
+		writer, 
+		regDate
 		FROM BOARD
 	</select>
 	
